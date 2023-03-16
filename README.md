@@ -59,4 +59,4 @@
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-<a><img href="https://coursera.org/share/48520e2ff3c6c684a9fef64c76d38e18"></a>
+<a><img align="left" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~WK6V33XULW3V/CERTIFICATE_LANDING_PAGE~WK6V33XULW3V.jpeg"></a>
